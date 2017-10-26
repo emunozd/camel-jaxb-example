@@ -1,0 +1,6 @@
+<per:NewOperation xmlns:per="http://example.com.XXXX/Person/">
+         <person>
+            <name>a</name>
+            <document>123</document>
+         </person>
+      </per:NewOperation>
