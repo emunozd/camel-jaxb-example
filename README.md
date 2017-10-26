@@ -19,10 +19,10 @@ System Requirements
 
 Before building and running this project you need:
 -------------------
-Maven 3.2 or higher
-JDK 1.7 or 1.8
-JBoss Fuse 6.3
-JBoss EAP 6.4
+*Maven 3.2 or higher
+*JDK 1.7 or 1.8
+*JBoss Fuse 6.3
+*JBoss EAP 6.4
 
 Build and Deploy
 ----------------
