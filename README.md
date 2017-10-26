@@ -13,17 +13,17 @@ This code example demonstrates how to create a File consumer in Spring and corre
 
 For more information see:
 
-*<https://access.redhat.com/site/documentation/JBoss_Fuse/> for more information about using JBoss Fuse
-*<https://access.redhat.com/solutions/2184271> How to switch to Woodstox implementation in Fuse on EAP in Camel's StaxConverter?
+* <https://access.redhat.com/site/documentation/JBoss_Fuse/> for more information about using JBoss Fuse
+* <https://access.redhat.com/solutions/2184271> How to switch to Woodstox implementation in Fuse on EAP in Camel's StaxConverter?
 
 System Requirements
 -------------------
 Before building and running this project you need:
 
-*Maven 3.2 or higher
-*JDK 1.7 or 1.8
-*JBoss Fuse 6.3
-*JBoss EAP 6.4
+* Maven 3.2 or higher
+* JDK 1.7 or 1.8
+* JBoss Fuse 6.3
+* JBoss EAP 6.4
 
 Build and Deploy
 ----------------
